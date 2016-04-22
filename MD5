@@ -1,0 +1,15 @@
+9742a8bfdeca0630122a4b8df467fab1 *DESCRIPTION
+4532b3229e971d27c1ef7c4e83da554b *LICENSE
+0e227ac781a851fd40d69de44830a744 *NAMESPACE
+0eb3db47fbc642e646e34dffef547319 *R/edf.R
+91d548bb03277fee09942912be587060 *R/read_edf.R
+e4ad3961b9dc1b508aa5a4d971c3f2cf *R/utilities.R
+81b5e49082a897106374c6f165724f8b *man/create.variable.name.Rd
+92431be5d941b29545f79240ca02eb88 *man/edf.Rd
+556f952b4685bdd0da9854b0667594e8 *man/edf.char.to.num.Rd
+377ac5efe27064c3651c45351ad60abf *man/parse.edf.annotations.Rd
+f10cb858eebfce5f7f615513b6b790e7 *man/parse.edf.global.header.Rd
+2abae265b8c38b5aa969dfb4b7b909a4 *man/parse.edf.signal.header.Rd
+7a7840ed189af9975dadcff1408deda3 *man/parse.event.Rd
+bb22783a2e6695dbbf803833ee7f2e8e *man/read.edf.Rd
+e5d7f54e457a233b325d5ff9728ca73e *man/trim.end.Rd
